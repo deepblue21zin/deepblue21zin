@@ -2,7 +2,14 @@
 
 <!--
 **deepblue21zin/deepblue21zin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepblue21zin&show_icons=true&theme=radical)
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepblue21zin&layout=compact&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jljsjeong)](https://solved.ac/profile/jljsjeong)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
