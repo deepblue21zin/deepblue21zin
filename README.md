@@ -1,23 +1,32 @@
-## Hi there 👋
+### Hi there 👋 I'm an ADAS Developer using MATLAB, C++, Python 🚀
 
-<!--
-**deepblue21zin/deepblue21zin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepblue21zin&show_icons=true&theme=radical)
+I am currently a university student and aiming to become an **ADAS (Advanced Driver Assistance Systems) Developer**. 🚗⚡
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+- 🔭 I’m currently working on **ADAS development**.
+- 🛠 I utilize **ROS, C++, Python, and MATLAB** for my projects.
+- 💻 My development environment is based on **Ubuntu** and **VS Code**.
+- 📝 I organize my projects and study notes using **GitHub** and **Notion**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepblue21zin&layout=compact&theme=radical)
+<br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jljsjeong)](https://solved.ac/profile/jljsjeong)
-Here are some ideas to get you started:
+### 🔗 💪 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks**
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-e67230?style=flat-square&logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/>
+
+**Tools & Environment**
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+
+**Collaboration & Docs**
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+
+<br/>
+
+### 📫 Contact
+
+<a href="mailto:jljsjeong@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
