@@ -21,9 +21,12 @@ I am currently a university student and aiming to become an **ADAS (Advanced Dri
 
 **Collaboration & Docs**
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-
-<br/>
+<a href="https://github.com/deepblue21zin" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</a>
+<a href="https://notion.so/https://www.notion.so/263541a976da81c78759f1b32908d24d" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
 
 ### 📫 Contact
 
