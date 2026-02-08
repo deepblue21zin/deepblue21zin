@@ -1,9 +1,9 @@
-### Hi there 👋 I'm an ADAS Developer using MATLAB, C++, Python 🚀
+### Hi there 👋 I'm an ADAS & Embedded Developer using MATLAB, C++, Python 🚀
 
-I am currently a university student and aiming to become an **ADAS (Advanced Driver Assistance Systems) Developer**. 🚗⚡
+I am currently a university student and aiming to become an **ADAS (Advanced Driver Assistance Systems) & Embedded System Developer**. 🚗⚡
 
-- 🔭 I’m currently working on **ADAS development**.
-- 🛠 I utilize **ROS, C++, Python, and MATLAB** for my projects.
+- 🔭 I’m currently working on **ADAS development and Embedded software optimization**.
+- 🛠 I utilize **ROS, C++, Python, MATLAB, and Embedded C** for my projects.
 - 💻 My development environment is based on **Ubuntu** and **VS Code**.
 - 📝 I organize my projects and study notes using **GitHub** and **Notion**.
 
